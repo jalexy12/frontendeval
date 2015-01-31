@@ -1,0 +1,74 @@
+.options{
+	margin-top: 50px;
+}
+.usernavbar{
+	float: right;
+	
+}
+
+.gmailsearch{
+	width: 350px;
+	height: 35px;
+	float: left;
+	margin-top: 8px;
+}
+
+.googleicon{
+	height: 35px;
+	width: 100px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 8px;
+}
+.msgnum{
+	float: right;
+}
+
+.main{
+	margin-top: 35px;
+}
+
+.sender{
+	font-weight: bold;
+}
+
+.boxoption{
+	margin-bottom: 5px;
+}
+.names{
+	font-weight: bold;
+}
+.searchbutton{
+	margin-top: 8px;
+	height: 35px;
+}
+
+.time{
+	margin-bottom: 10px;
+	margin-left: 15px;
+}
+
+.msg{
+	margin-bottom: 1px;
+	border-style: ridge;
+	border-width: 1px;
+	border-color: grey;
+}
+.navcontainer{
+	margin-left: 20px;
+}
+
+.selected{
+	background-color: #ffff32;
+}
+.selectedbuttons{
+	display: none;
+}
+.selecting .selectedbuttons{
+	display: block;
+}
+.selecting .defaultbuttons{
+	display: none;
+}
+
+
